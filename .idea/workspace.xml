@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ef0c52bf-23da-451c-8d58-6e0d15e1fb74" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/team/flashjoymusic/MusicApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/team/flashjoymusic/controller/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/team/flashjoymusic/director/Director.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/team/flashjoymusic/util/ScreenSetting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/team/flashjoymusic/view/LoginUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/view/login.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/team/flashjoymusic/data/Password.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/team/flashjoymusic/data/Password.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/team/flashjoymusic/util/FontSetting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/team/flashjoymusic/util/FontSetting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/css/login.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/css/login.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/password.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/data/password.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/password/password.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/password/password.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/view/menu.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/view/menu.fxml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+        <option value="CSS File" />
+        <option value="FxmlFile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MCygfcFHwHVHBk1XJMG9r1TIVG" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/JavaProject/FlashJoyMusic&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.3873563&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JavaProject\FlashJoyMusic\src\main\resources\image" />
+      <recent name="D:\JavaProject\FlashJoyMusic\src\main\resources\font" />
+    </key>
+  </component>
+  <component name="RunManager" selected="应用程序.MusicApp">
+    <configuration name="HelloApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.team.flashjoymusic.HelloApplication" />
+      <module name="FlashJoyMusic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.team.flashjoymusic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MusicApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.team.flashjoymusic.MusicApp" />
+      <module name="FlashJoyMusic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.team.flashjoymusic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.MusicApp" />
+        <item itemvalue="应用程序.HelloApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="ef0c52bf-23da-451c-8d58-6e0d15e1fb74" name="变更" comment="" />
+      <created>1677285974296</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677285974296</updated>
+      <workItem from="1677285976630" duration="3726000" />
+      <workItem from="1677309700394" duration="13000" />
+      <workItem from="1677378554129" duration="10977000" />
+      <workItem from="1677405948158" duration="1303000" />
+      <workItem from="1677455929495" duration="5829000" />
+      <workItem from="1677461905607" duration="378000" />
+      <workItem from="1677462301887" duration="1073000" />
+      <workItem from="1677463512309" duration="29000" />
+      <workItem from="1677464295302" duration="1680000" />
+      <workItem from="1677582605794" duration="2145000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

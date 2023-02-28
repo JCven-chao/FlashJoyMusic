@@ -1,0 +1,34 @@
+/*字体文件的名称和family*/
+/*  标小智无界黑.ttf  LogoSC Unbounded Sans*/
+/*  荆南麦圆体.ttf   Kingnam Maiyuan*/
+/*Leefont蒙黑体.ttf  leefontmenghei*/
+/*系统字体 微软雅黑 Microsoft YaHei*/
+@font-face {
+    font-family: "Kingnam Maiyuan";
+    src: url("../font/荆南麦圆体.ttf");
+}
+#textPassword{
+    -fx-background-radius:0;
+    -fx-background-color: rgba(169, 167, 167, 0.3);
+}
+
+.button:hover {
+    -fx-background-color: rgba(0, 255, 215, 0.6);
+
+    -fx-font-size: 18;
+}
+
+.button{
+    -fx-background-color: rgba(0, 255, 215, 0.2);
+    -fx-background-radius:0;
+    -fx-text-fill: #efa603;
+/*"-fx-background-color:#00BFFF;"+         //设置背景颜色*/
+/*"-fx-background-radius:20;"+     //设置背景圆角*/
+/*"-fx-text-fill:#FF0000;"+        //设置字体颜色*/
+/*"-fx-border-radius:20;"+         //设置边框圆角*/
+/*"-fx-border-color:#FFFF00;"+     //设置边框颜色*/
+/*"-fx-border-style:dashed;"+      //设置边框样式*/
+/*"-fx-border-width:5;"+           //设置边框宽度*/
+/*"-fx-border-insets:-5"           //设置边框插入值*/
+
+}
