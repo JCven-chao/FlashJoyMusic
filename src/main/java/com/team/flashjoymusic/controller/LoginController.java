@@ -66,7 +66,8 @@ public class LoginController
         {
             case "1": {
                 if (textPassword.getText().equals(s[1]) || textPassword.getText().equals(s[2])) {
-                    Director.getInstance().loadLoginUI(new Stage());
+                    //...
+                    Director.getInstance().loadMenuUI();
                     Calendar c = Calendar.getInstance();
                     Date date = c.getTime();
                     //按yyyy-MM-dd hh:mm:ss 格式化对象
@@ -110,7 +111,7 @@ public class LoginController
                     }
                 }
                 //直接登录
-                Director.getInstance().loadLoginUI(new Stage());
+                Director.getInstance().loadMenuUI();
             }
         }
         //点击登录按钮的事件 这里面还要进行页面跳转还要登录验证等需求

@@ -4,21 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef0c52bf-23da-451c-8d58-6e0d15e1fb74" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/team/flashjoymusic/MusicApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/team/flashjoymusic/controller/LoginController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/team/flashjoymusic/director/Director.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/team/flashjoymusic/util/ScreenSetting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/team/flashjoymusic/view/LoginUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/view/login.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/team/flashjoymusic/data/Password.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/team/flashjoymusic/data/Password.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/team/flashjoymusic/util/FontSetting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/team/flashjoymusic/util/FontSetting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/css/login.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/css/login.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/data/password.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/data/password.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/password/password.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/password/password.txt" afterDir="false" />
+    <list default="true" id="ef0c52bf-23da-451c-8d58-6e0d15e1fb74" name="变更" comment="测试提交版本">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/team/flashjoymusic/view/MenuUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/team/flashjoymusic/MusicApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/team/flashjoymusic/MusicApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/team/flashjoymusic/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/team/flashjoymusic/controller/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/team/flashjoymusic/director/Director.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/team/flashjoymusic/director/Director.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/view/menu.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/view/menu.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,9 +21,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="Class" />
         <option value="CSS File" />
         <option value="FxmlFile" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -121,8 +112,18 @@
       <workItem from="1677462301887" duration="1073000" />
       <workItem from="1677463512309" duration="29000" />
       <workItem from="1677464295302" duration="1680000" />
-      <workItem from="1677582605794" duration="2145000" />
+      <workItem from="1677582605794" duration="3264000" />
+      <workItem from="1677634788321" duration="930000" />
+      <workItem from="1677669205714" duration="4377000" />
     </task>
+    <task id="LOCAL-00001" summary="测试提交版本">
+      <created>1677586111317</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677586111318</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,5 +139,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="测试提交版本" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试提交版本" />
   </component>
 </project>

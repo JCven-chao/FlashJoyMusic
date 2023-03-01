@@ -16,7 +16,7 @@ public class MusicApp extends Application
     {
         //通过单例的导演类来调用相关的场景UI
         stage.setResizable(false);
-        Director.getInstance().loadLoginUI(stage);
+        Director.getInstance().loadLoginUI();
     }
 
 

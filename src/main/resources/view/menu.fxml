@@ -1,27 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+<?import javafx.geometry.Insets?>
 <?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
 <?import javafx.scene.control.ScrollPane?>
-<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
 <?import javafx.scene.layout.HBox?>
 <?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
 
 
-<AnchorPane prefHeight="900.0" prefWidth="1440.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1">
-   <children>
-      <HBox layoutX="4.0" layoutY="4.0" prefHeight="900.0" prefWidth="1440.0">
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1">
+   <top>
+      <HBox prefHeight="50.0" prefWidth="800.0" style="-fx-background-color: yellow;" BorderPane.alignment="CENTER">
          <children>
-            <VBox prefHeight="900.0" prefWidth="300.0" style="-fx-background-color: yellow;">
-               <children>
-                  <Button mnemonicParsing="false" text="登录" />
-                  <Button mnemonicParsing="false" text="首页" />
-                  <Button mnemonicParsing="false" text="探索" />
-                  <Button mnemonicParsing="false" text="设置" />
-                  <ScrollPane prefHeight="516.0" prefWidth="300.0" />
-               </children>
-            </VBox>
-            <VBox prefHeight="200.0" prefWidth="1140.0" style="-fx-background-color: green;" />
+            <Label text="闪悦Music">
+               <font>
+                  <Font size="30.0" />
+               </font>
+            </Label>
          </children>
       </HBox>
-   </children>
-</AnchorPane>
+   </top>
+   <left>
+      <VBox alignment="TOP_CENTER" prefHeight="200.0" prefWidth="200.0" spacing="30.0" style="-fx-background-color: lightblue;" BorderPane.alignment="CENTER">
+         <children>
+            <Button mnemonicParsing="false" text="我的音乐" />
+            <Button mnemonicParsing="false" text="音乐推荐" />
+            <Button mnemonicParsing="false" text="我喜欢" />
+            <Button mnemonicParsing="false" text="我的歌单" />
+            <Button mnemonicParsing="false" text="添加音乐" />
+         </children>
+         <padding>
+            <Insets top="30.0" />
+         </padding>
+      </VBox>
+   </left>
+   <bottom>
+      <HBox alignment="CENTER" prefHeight="80.0" prefWidth="800.0" spacing="20.0" style="-fx-background-color: gray;" BorderPane.alignment="CENTER">
+         <children>
+            <Button mnemonicParsing="false" prefHeight="30.0" prefWidth="115.0" text="歌曲信息" />
+            <Button mnemonicParsing="false" text="顺序播放" />
+            <Button mnemonicParsing="false" text="上一曲" />
+            <Button mnemonicParsing="false" text="播放" />
+            <Button mnemonicParsing="false" text="下一曲" />
+            <Button mnemonicParsing="false" text="音量" />
+         </children>
+      </HBox>
+   </bottom>
+   <center>
+      <ScrollPane prefHeight="200.0" prefWidth="200.0" BorderPane.alignment="CENTER" />
+   </center>
+</BorderPane>
